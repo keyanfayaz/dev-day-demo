@@ -11,7 +11,7 @@ Open `index.html` in a browser. Everything, including Homie's avatar, is embedde
 - Click the thread or the **Continue…** prompt to reveal the next moment.
 - **Space**, **Enter**, or **Right arrow** advance. **Left arrow** goes back.
 - **F** enters full screen.
-- Work tabs appear separately with a spinning indicator, then complete on a later click.
+- Work tabs show a spinning indicator, then complete on a later click. The beta checks tab appears directly below the PR21 update on the same click.
 - Chapter 1 ends with a separate click that adds a thumbs-up reaction to the sushi pickup message. Continue clicking to start chapter 2.
 - Chapter 2 ends with a separate click that sends “Let’s do it” in response to Homie's MacBook Pro suggestion.
 - Use the **Replay** button in the top right to start again.
