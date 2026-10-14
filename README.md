@@ -4,6 +4,8 @@ An interactive conversation replay for a DevDay meetup talk about Homie, my Dot,
 
 ## Presenting
 
+Present from the live link: [Homie · Raidio](https://keyanfayaz.github.io/dev-day-demo/).
+
 Open `index.html` in a browser. Everything, including Homie's avatar, is embedded in that file. No installation or internet connection is required.
 
 - Click the thread or the **Continue…** prompt to reveal the next moment.
