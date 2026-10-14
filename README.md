@@ -11,7 +11,7 @@ Open `index.html` in a browser. Everything, including Homie's avatar, is embedde
 - **F** enters full screen.
 - Work tabs appear separately with a spinning indicator, then complete on a later click.
 - Chapter 1 ends with a separate click that adds a thumbs-up reaction to the sushi pickup message. Continue clicking to start chapter 2.
-- Chapter 2 ends with a separate click that adds a thumbs-up reaction to Homie's MBPro suggestion.
+- Chapter 2 ends with a separate click that sends “Let’s do it” in response to Homie's MacBook Pro suggestion.
 - Use the **Replay** button in the top right to start again.
 
 The typing indicator waits 2.5 seconds after the first message from Me. All conversation messages wait for a click.
