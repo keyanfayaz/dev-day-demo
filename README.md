@@ -8,7 +8,7 @@ Open `index.html` in a browser. Everything, including Homie's avatar, is embedde
 
 - Click the thread or the **Continue…** prompt to reveal the next moment.
 - **Space**, **Enter**, or **Right arrow** advance. **Left arrow** goes back.
-- **F** enters full screen. **N** shows the talking cues.
+- **F** enters full screen.
 - Work tabs appear separately with a spinning indicator, then complete on a later click.
 - The final click adds a thumbs-up reaction to the sushi pickup message.
 - Use the **Replay** button in the top right to start again.
