@@ -14,7 +14,7 @@ Open `index.html` in a browser. Everything, including Homie's avatar, is embedde
 - Work tabs show a spinning indicator, then complete on a later click. The beta checks tab appears directly below the PR21 update on the same click.
 - Chapter 1 ends with a separate click that adds a thumbs-up reaction to the sushi pickup message. Continue clicking to start chapter 2.
 - After “Let’s do it” in chapter 2, the next click shows “MacBook Pro connected” in the same style as the earlier Mac mini connection label.
-- One last click reveals Homie's link to the [live Raidio demo](https://demo.raidio-app.com). Clicking the link opens it in a new tab.
+- Homie says “Cool, check this out” on the next click. One last click reveals the link to the [live Raidio demo](https://demo.raidio-app.com). Clicking the link opens it in a new tab.
 - Use the **Replay** button in the top right to start again.
 
 The typing indicator waits 2.5 seconds after the first message from Me. All conversation messages wait for a click.
